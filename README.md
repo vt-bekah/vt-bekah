@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, I'm Rebekah 👋
+
+- 💬 Ask me about data analytics (python, SQL, visualizations) - turning data into a story!
+- ✨ I have a growth mindset looking to apply my new skills and years of experience to help you!
+- 🌱 I’m currently learning about machine learning and neural networks
+- ⚡ Fun fact: Word games are the start of my day - Wordle, Octordle, Squaredle, Connections
 
 <!--
 **vt-bekah/vt-bekah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
