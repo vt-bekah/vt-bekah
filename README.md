@@ -1,4 +1,4 @@
-### Hi there, I'm Rebekah 👋
+### Hi there 👋
 
 - 💬 Ask me about data analytics (python, SQL, visualizations) - turning data into a story!
 - ✨ I have a growth mindset looking to apply my new skills and years of experience to help you!
